@@ -9,3 +9,4 @@ Download the Gamepad.ino file, open it with the Arduino IDE and flash the ESP32 
 
 Make the connections from the diagram by removing all existing gamepad connections.
 
+<img src="https://github.com/Ferrazzi/FlipperZero_IFTTT_Virtual_Button/blob/main/Image/FlipperZero_IFTTT_Module.png" align="center" alt="fzCUSTOM" border="0">
